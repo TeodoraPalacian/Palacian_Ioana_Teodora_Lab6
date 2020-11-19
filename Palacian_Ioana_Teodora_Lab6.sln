@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palacian_Ioana_Teodora_Lab6", "Palacian_Ioana_Teodora_Lab6.csproj", "{892C08A5-33A0-4B71-B57F-DA5D7B6A4F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{DB90E7FA-0ADA-423C-8199-50700A75C304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892C08A5-33A0-4B71-B57F-DA5D7B6A4F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892C08A5-33A0-4B71-B57F-DA5D7B6A4F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892C08A5-33A0-4B71-B57F-DA5D7B6A4F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892C08A5-33A0-4B71-B57F-DA5D7B6A4F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB90E7FA-0ADA-423C-8199-50700A75C304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB90E7FA-0ADA-423C-8199-50700A75C304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB90E7FA-0ADA-423C-8199-50700A75C304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB90E7FA-0ADA-423C-8199-50700A75C304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A357E8-2181-4DF4-9D69-1BF30B0047FE}
+	EndGlobalSection
+EndGlobal
